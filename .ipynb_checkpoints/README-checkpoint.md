@@ -10,6 +10,3 @@ python -m venv .venv
 
 ### Activate the virtual environment (on Windows)
 source .venv/Scripts/activate
-
-### Install dependencies
-pip install jupyterlab matplotlib pandas numpy
