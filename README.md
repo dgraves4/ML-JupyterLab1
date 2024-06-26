@@ -17,7 +17,6 @@ This project is a part of the Lab 1 assignment for the Machine Learning course. 
   - [4. Evaluating the Model](#4-evaluating-the-model)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [Acknowledgements](#acknowledgements)
 
 ## Installation
 
