@@ -1,4 +1,4 @@
-# JupyterLab Machine Learning Project
+# JupyterLab Machine Learning- Lab 1
 
 ## Project Overview
 
